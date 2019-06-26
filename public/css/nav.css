@@ -1,0 +1,45 @@
+.navigation{
+    background-color: white;
+}
+.navigation .nav-link{
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing:2px;
+}
+
+.info .navbar-brand{
+    padding-left: 4%;
+}
+.logo{
+    color: darkgreen;
+    font-family: 'Work Sans', sans-serif;
+    margin: 3%;
+}
+
+.info{
+    background-color: black;
+    color: white;
+}
+.info p{
+    font-size: 13px;
+    padding: 0 auto;
+    margin: 1px auto;
+}
+
+.info navButton{
+    font-family: sans-serif;
+    
+}
+.info button{
+    background-color: #4062BB;
+    letter-spacing:2px;
+}
+
+.info button:hover{
+    background-color: white;
+    color: #4062BB;
+}
+
+.navigation .nav-link:hover { 
+    color: #C5BAAF;
+}
